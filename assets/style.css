@@ -1,0 +1,246 @@
+/* ==========================================================================
+   Personal academic site — shared styles
+   Look: white background, dark-grey text, left author sidebar, top nav.
+   Edit the variables below to retune colours in one place.
+   ========================================================================== */
+
+:root {
+  --text: #494e52;
+  --text-light: #7a8288;
+  --heading: #3d4247;
+  --link: #2b6cb0;
+  --link-hover: #1a4d80;
+  --rule: #e6e8ea;
+  --rule-soft: #f2f3f3;
+  --bg: #ffffff;
+  --code-bg: #fafafa;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: Monaco, Consolas, "Lucida Console", monospace;
+  --sidebar-w: 200px;
+  --content-w: 760px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 16px; }
+@media (min-width: 64em) { html { font-size: 18px; } }
+@media (min-width: 80em) { html { font-size: 20px; } }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link-hover); text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
+h1, h2, h3, h4 { color: var(--heading); font-weight: 700; line-height: 1.2; margin: 1.6em 0 0.6em; }
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.25em; }
+h3 { font-size: 1.05em; }
+p, ul, ol { margin: 0 0 1.3em; }
+strong { color: var(--heading); }
+em { font-style: italic; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 2em 0; }
+img { max-width: 100%; height: auto; }
+blockquote {
+  margin: 1.5em 0; padding-left: 1em;
+  border-left: 0.25em solid var(--rule);
+  color: var(--text-light); font-style: italic;
+}
+
+code {
+  font-family: var(--mono);
+  font-size: 0.8em;
+  background: var(--code-bg);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+}
+
+/* --------------------------------------------------------------------------
+   Masthead (site title + top navigation)
+   -------------------------------------------------------------------------- */
+.masthead {
+  border-bottom: 1px solid var(--rule-soft);
+  background: var(--bg);
+}
+.masthead-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0.75em 1em;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5em 1.5em;
+}
+.site-title {
+  font-weight: 700;
+  color: var(--heading);
+  font-size: 1em;
+  margin-right: auto;
+}
+.site-title:hover { text-decoration: none; color: var(--link); }
+
+.site-nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0 1.25em; }
+.site-nav a { color: var(--text); font-size: 0.9em; padding: 0.35em 0; display: inline-block; position: relative; }
+.site-nav a:hover { color: var(--link); text-decoration: none; }
+.site-nav a::after {
+  content: ""; position: absolute; left: 0; bottom: 0;
+  width: 100%; height: 3px; background: var(--link);
+  transform: scaleX(0); transform-origin: left;
+  transition: transform 0.2s ease;
+}
+.site-nav a:hover::after, .site-nav a[aria-current="page"]::after { transform: scaleX(1); }
+.site-nav a[aria-current="page"] { color: var(--heading); }
+
+.nav-toggle {
+  display: none;
+  background: none; border: 0; cursor: pointer;
+  padding: 0.4em 0.6em; color: var(--text);
+  font: inherit; font-size: 0.9em;
+}
+.nav-toggle .bars { display: inline-block; width: 1.2em; }
+.nav-toggle .bars span { display: block; height: 2px; background: currentColor; margin: 4px 0; }
+
+@media (max-width: 47.99em) {
+  .nav-toggle { display: inline-flex; align-items: center; gap: 0.5em; }
+  .site-nav { display: none; width: 100%; }
+  .site-nav.is-open { display: block; }
+  .site-nav ul { flex-direction: column; gap: 0.25em; padding-top: 0.5em; border-top: 1px solid var(--rule-soft); }
+  .site-nav a::after { display: none; }
+}
+
+/* --------------------------------------------------------------------------
+   Page layout: sidebar + main content
+   -------------------------------------------------------------------------- */
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1em;
+}
+@media (min-width: 64em) {
+  .page {
+    display: grid;
+    grid-template-columns: var(--sidebar-w) minmax(0, var(--content-w));
+    gap: 2em;
+    align-items: start;
+  }
+}
+
+.sidebar { font-size: 0.85em; }
+@media (min-width: 64em) {
+  .sidebar { position: sticky; top: 1em; }
+}
+
+/* Author profile */
+.author-avatar img,
+.author-avatar svg {
+  width: 110px; height: 110px;
+  border-radius: 50%;
+  display: block;
+}
+.author-name { margin: 0.75em 0 0.25em; font-size: 1.25em; font-weight: 700; color: var(--heading); }
+.author-bio { margin: 0 0 0.75em; color: var(--text-light); line-height: 1.4; }
+
+.author-follow {
+  display: none;
+  width: 100%;
+  padding: 0.45em 1em;
+  margin: 0.5em 0 0.75em;
+  background: none; border: 1px solid var(--rule); border-radius: 4px;
+  color: var(--text); font: inherit; cursor: pointer;
+}
+.author-follow:hover { border-color: var(--text-light); }
+
+.author-links { list-style: none; margin: 0; padding: 0; }
+.author-links li { margin: 0 0 0.45em; display: flex; align-items: baseline; gap: 0.55em; color: var(--text); }
+.author-links i { width: 1.25em; text-align: center; color: var(--text-light); flex: none; }
+.author-links a { color: var(--text); }
+.author-links a:hover { color: var(--link); }
+
+@media (max-width: 63.99em) {
+  .author-profile { display: grid; grid-template-columns: 90px 1fr; column-gap: 1em; align-items: center; }
+  .author-avatar img, .author-avatar svg { width: 90px; height: 90px; }
+  .author-name { margin-top: 0; }
+  .author-follow { display: block; grid-column: 1 / -1; }
+  .author-links { display: none; grid-column: 1 / -1; }
+  .author-links.is-open { display: block; }
+}
+
+/* Main content */
+.page-content { min-width: 0; }
+.page-title {
+  margin-top: 0.25em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--rule);
+}
+.page-content > .lead { font-size: 1.05em; }
+.figure { margin: 1.5em 0; }
+.figure img { display: block; border-radius: 4px; }
+.figure figcaption { font-size: 0.8em; color: var(--text-light); margin-top: 0.4em; }
+
+/* Tag strip (e.g. "Interests") */
+.tags { display: flex; flex-wrap: wrap; gap: 0.4em; margin: 0 0 1.3em; padding: 0; list-style: none; }
+.tags li { font-family: var(--mono); font-size: 0.75em; background: var(--code-bg); border: 1px solid var(--rule); border-radius: 4px; padding: 0.2em 0.55em; }
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 0.5em 1.1em;
+  border: 1px solid var(--heading);
+  border-radius: 4px;
+  color: var(--heading);
+  font-size: 0.85em; font-weight: 600;
+  text-decoration: none;
+}
+.btn:hover { background: var(--heading); color: #fff; text-decoration: none; }
+.btn-primary { background: var(--heading); color: #fff; }
+.btn-primary:hover { background: var(--link); border-color: var(--link); }
+
+/* Lists used on CV / talks / publications */
+.entries { list-style: none; margin: 0 0 1.5em; padding: 0; }
+.entries li { padding: 0.75em 0; border-bottom: 1px solid var(--rule-soft); }
+.entries li:last-child { border-bottom: 0; }
+.entry-title { display: block; font-weight: 600; color: var(--heading); }
+.entry-meta { display: block; color: var(--text-light); font-size: 0.85em; margin-top: 0.15em; }
+.entry-desc { display: block; margin-top: 0.3em; }
+
+.cv-row { display: grid; grid-template-columns: 6.5em 1fr; gap: 1em; padding: 0.6em 0; border-bottom: 1px solid var(--rule-soft); }
+.cv-row:last-child { border-bottom: 0; }
+.cv-date { color: var(--text-light); font-size: 0.85em; padding-top: 0.15em; }
+.cv-main strong { display: block; }
+.cv-main span { color: var(--text-light); font-size: 0.9em; }
+@media (max-width: 39.99em) { .cv-row { grid-template-columns: 1fr; gap: 0.15em; } }
+
+.pub-year { margin: 1.5em 0 0.25em; color: var(--text-light); font-size: 0.9em; font-weight: 600; }
+.pub-note { color: var(--text-light); font-size: 0.8em; }
+
+/* Editable placeholders — remove the class once you have filled them in */
+.todo { background: #fff7d6; border-bottom: 1px dashed #d9b64a; padding: 0 0.15em; }
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+.site-footer {
+  max-width: 1280px;
+  margin: 3em auto 0;
+  padding: 1.25em 1em 2em;
+  border-top: 1px solid var(--rule-soft);
+  color: var(--text-light);
+  font-size: 0.8em;
+}
+.footer-follow { list-style: none; margin: 0 0 0.75em; padding: 0; display: flex; flex-wrap: wrap; gap: 0 1.25em; }
+.footer-follow li:first-child { font-weight: 700; }
+.footer-follow a { color: var(--text-light); }
+.footer-follow a:hover { color: var(--link); }
+.site-footer .copyright { margin: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  .site-nav a::after { transition: none; }
+}

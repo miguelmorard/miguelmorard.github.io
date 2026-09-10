@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Placeholder profile picture: a budding yeast cell">
+  <circle cx="110" cy="110" r="110" fill="#eceef0"/>
+  <!-- mother cell -->
+  <ellipse cx="102" cy="118" rx="52" ry="44" fill="#ffffff" stroke="#3d4247" stroke-width="4"/>
+  <!-- bud -->
+  <ellipse cx="156" cy="80" rx="24" ry="21" fill="#ffffff" stroke="#3d4247" stroke-width="4"/>
+  <!-- bud neck -->
+  <path d="M140 96 Q146 88 152 100" fill="none" stroke="#3d4247" stroke-width="4" stroke-linecap="round"/>
+  <!-- vacuole -->
+  <circle cx="92" cy="122" r="14" fill="none" stroke="#3d4247" stroke-width="3" opacity="0.5"/>
+  <!-- nucleus (mother) and mitochondria hints -->
+  <circle cx="118" cy="104" r="7" fill="#3d4247"/>
+  <circle cx="158" cy="82" r="3.5" fill="#3d4247"/>
+  <path d="M70 140 c6 -8 14 -8 20 0" fill="none" stroke="#0e8a86" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 148 c6 -8 14 -8 20 0" fill="none" stroke="#0e8a86" stroke-width="3" stroke-linecap="round"/>
+</svg>
