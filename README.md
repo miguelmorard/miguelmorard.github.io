@@ -4,7 +4,7 @@ Web estática (HTML + CSS + un poco de JS), sin Jekyll ni dependencias: se sube 
 
 ## Publicarla en GitHub Pages
 
-1. Crea un repositorio llamado `TUUSUARIO.github.io` (la web quedará en `https://TUUSUARIO.github.io/`).
+1. Repositorio: `miguelmorard/miguelmorard.github.io` (la web queda en `https://miguelmorard.github.io/`; el nombre del repo debe coincidir exactamente con el usuario de GitHub).
    Si prefieres una ruta tipo `TUUSUARIO.github.io/about/`, llama al repo `about`.
 2. Sube todos los archivos de esta carpeta a la rama `main` (incluido el `.nojekyll`).
 3. En el repo: **Settings → Pages → Build and deployment → Source: Deploy from a branch**, rama `main`, carpeta `/ (root)`. Guarda.
@@ -13,7 +13,7 @@ Web estática (HTML + CSS + un poco de JS), sin Jekyll ni dependencias: se sube 
 ## Qué tocar (lo que está en amarillo en la web son huecos por rellenar)
 
 - **Foto**: guarda tu foto como `images/profile.jpg` (cuadrada, ~400×400 px) y cambia `images/profile.svg` por `images/profile.jpg` en el bloque `<aside class="sidebar">` de cada página.
-- **Email y GitHub**: busca `you@iata.csic.es` y `YOUR-USERNAME` en todos los `.html` y sustitúyelos.
+- **Email**: busca `you@iata.csic.es` en todos los `.html` y sustitúyelo.
 - **Barra lateral** (nombre, frase, enlaces): es el mismo bloque `<aside class="sidebar">` en las 5 páginas; cámbialo en todas. Hay ejemplos comentados para ResearchGate, Bluesky, X y PubMed.
 - **Texto del About**: `index.html`. La tira de fotos es opcional (borra el `<figure>` si no la quieres).
 - **CV**: `cv.html` — fechas y puestos anteriores marcados con la clase `todo`. Cuando rellenes un hueco, quita `class="todo"` para que deje de verse amarillo.
