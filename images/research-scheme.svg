@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img"
+     aria-label="Research overview: yeast hybrids, mitochondrial genomes, long-read sequencing and structural variation" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphY2M5MzRhZi04MzFkLTRkMDgtOWJjYS03N2Y4OWI2NGIyMGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNfQkAu1+YMace2eTDWeWbUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5NWYzYTYyNS05Y2M0LTQ5MTItODZiZC0xY2ViZTI1ZmI3YTdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoo+1I71P+WAg0e3oR1UeHvAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggGM8HMswoluQ9zUeDp3uuOkjat0/viucPHgGIFScq9NWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJvOofXn0rmJcot0i8bJ3FUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIB5w5Rk+ylVQ8ZlkLPob7wsbxxXUiom7IewAHGjj6lDUZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQECZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFjYzkzNGFmLTgzMWQtNGQwOC05YmNhLTc3Zjg5YjY0YjIwZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk1NWY4ODJmLTk2YzAtNDdmZS04MjQ3LTNkZDY1YjJjNjdjYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAYzwcyzCiW5D3NR4One646SNq3T++K5w8eAYgVJyr01aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggT8QGINtiyiMuUrH8/S5pEnuqrVhgJPg8ceAhuQoaBOyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggP/9F/vBwIGmbQhm3dCF1QPqOYpAcjlHxnPK4K50+fBl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCYTjlj0YMe94N3sTtcD6KrzxLXE6dTaKTqAHmVgPk/uri1nrFZlvct7E5u3BlJp1EBqucQYuYYbTFuuVJUzOXw=</c2pa:manifest></metadata>
+  <title>Research overview</title>
+  <desc>Four panels: yeast hybrids combining two parental genomes; mitochondrial genomes with heteroplasmy between respiratory and selfish mtDNA; long-read sequencing spanning repeats; and structural variation (inversion, deletion, translocation).</desc>
+
+  <style>
+    .panel  { fill: #f5f6f7; }
+    .cell   { fill: #ced3d7; }
+    .nuc    { fill: #3d4247; }
+    .ink    { fill: #3d4247; }
+    .line   { stroke: #3d4247; fill: none; stroke-linecap: round; }
+    .thin   { stroke: #8f979d; fill: none; stroke-linecap: round; stroke-width: 1.4; }
+    .ttl    { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #3d4247; }
+    .sub    { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 11.5px; font-weight: 300; fill: #7a8288; }
+    .lbl    { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10px; font-weight: 300; fill: #7a8288; }
+    .lbl-i  { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10px; font-weight: 300; fill: #7a8288; font-style: italic; }
+    .teal   { fill: #0e8a86; }
+    .purple { fill: #6b4fa8; }
+    .orange { fill: #e07a2f; }
+    .green  { fill: #1f9d74; }
+    .magenta{ fill: #c2358a; }
+  </style>
+
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 1 L9 5 L0 9" fill="none" stroke="#8f979d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="ar-d" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 1 L9 5 L0 9" fill="none" stroke="#3d4247" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- ===================== 1. HYBRIDS (rare mating -> allotriploid -> meiosis) ===================== -->
+  <g transform="translate(8,8)">
+    <rect class="panel" width="226" height="276" rx="10"/>
+    <text class="ttl" x="18" y="26">Yeast hybrids</text>
+    <text class="sub" x="18" y="43">rare mating &amp; hybrid meiosis</text>
+
+    <!-- parent A: S. cerevisiae, diploid -->
+    <g transform="translate(55,80)">
+      <ellipse class="cell" cx="0" cy="0" rx="19" ry="16"/>
+      <circle  class="cell" cx="16" cy="-13" r="8"/>
+      <circle  class="teal" cx="-6" cy="-1" r="5"/>
+      <circle  class="teal" cx="4"  cy="-1" r="5"/>
+    </g>
+    <text class="lbl" x="18" y="108"><tspan font-style="italic">S. cerevisiae</tspan> &#8201;2n</text>
+
+    <!-- parent B: S. kudriavzevii, haploid -->
+    <g transform="translate(168,80)">
+      <ellipse class="cell" cx="0" cy="0" rx="16" ry="13"/>
+      <circle  class="cell" cx="14" cy="-11" r="7"/>
+      <circle  class="purple" cx="-2" cy="-1" r="5"/>
+    </g>
+    <text class="lbl" x="134" y="108"><tspan font-style="italic">S. kudriavzevii</tspan> &#8201;n</text>
+
+    <!-- converging arrows: rare mating -->
+    <path class="thin" d="M60 118 C 68 134, 86 142, 100 148" marker-end="url(#ar)"/>
+    <path class="thin" d="M164 118 C 156 134, 138 142, 124 148" marker-end="url(#ar)"/>
+    <text class="lbl" x="84" y="134">rare mating</text>
+
+    <!-- allotriploid hybrid -->
+    <g transform="translate(113,174)">
+      <ellipse class="cell" cx="0" cy="0" rx="27" ry="22"/>
+      <circle  class="cell" cx="22" cy="-18" r="11"/>
+      <circle  class="teal"   cx="-9" cy="-3" r="5.5"/>
+      <circle  class="teal"   cx="1"  cy="-3" r="5.5"/>
+      <circle  class="purple" cx="-4" cy="7"  r="5.5"/>
+    </g>
+    <text class="lbl" x="56" y="206">allotriploid  Sc(2n) &#215; Sk(1n)</text>
+
+    <!-- meiosis -->
+    <path class="thin" d="M113 214 L 113 230" marker-end="url(#ar)"/>
+    <text class="lbl" x="122" y="228">meiosis</text>
+
+    <!-- ascus with four spores of unequal genome content -->
+    <g transform="translate(60,250)">
+      <circle class="cell" cx="0"  cy="0" r="11"/>
+      <circle class="teal"   cx="-3" cy="-1" r="4"/>
+      <circle class="purple" cx="4"  cy="3"  r="3.2"/>
+
+      <circle class="cell" cx="28" cy="0" r="11"/>
+      <circle class="teal"   cx="25" cy="-1" r="4"/>
+      <circle class="teal"   cx="33" cy="3"  r="3.2"/>
+
+      <circle class="cell" cx="56" cy="0" r="11"/>
+      <circle class="teal"   cx="54" cy="0" r="4"/>
+
+      <circle class="cell" cx="84" cy="0" r="11"/>
+      <circle class="teal"   cx="80" cy="-1" r="4"/>
+      <circle class="purple" cx="87" cy="2"  r="4"/>
+      <circle class="purple" cx="83" cy="7"  r="2.6"/>
+    </g>
+    <text class="lbl" x="18" y="272">unbalanced, aneuploid progeny</text>
+  </g>
+
+  <!-- link 1 -> 2 -->
+  <path class="thin" d="M240 146 C 248 146, 248 146, 256 146" marker-end="url(#ar)"/>
+
+  <!-- ===================== 2. MITOCHONDRIAL GENOMES ===================== -->
+  <g transform="translate(256,8)">
+    <rect class="panel" width="226" height="276" rx="10"/>
+    <text class="ttl" x="18" y="30">Mitochondrial genomes</text>
+    <text class="sub" x="18" y="48">heteroplasmy &amp; selfish mtDNA</text>
+
+    <!-- cell holding mitochondria -->
+    <g transform="translate(113,122)">
+      <ellipse class="cell" cx="0" cy="0" rx="62" ry="48"/>
+      <circle  class="cell" cx="52" cy="-38" r="20"/>
+      <circle  class="nuc"  cx="-26" cy="-14" r="7"/>
+
+      <!-- mitochondria: capsules with cristae -->
+      <g transform="translate(20,-26) rotate(-20)">
+        <rect class="green" x="-19" y="-7" width="38" height="14" rx="7"/>
+        <path d="M-11 -7 q4 7 0 14 M-1 -7 q4 7 0 14 M9 -7 q4 7 0 14" stroke="#ffffff" stroke-width="1.3" fill="none" opacity="0.75"/>
+      </g>
+      <g transform="translate(-6,24) rotate(14)">
+        <rect class="green" x="-19" y="-7" width="38" height="14" rx="7"/>
+        <path d="M-11 -7 q4 7 0 14 M-1 -7 q4 7 0 14 M9 -7 q4 7 0 14" stroke="#ffffff" stroke-width="1.3" fill="none" opacity="0.75"/>
+      </g>
+      <g transform="translate(34,6) rotate(-6)">
+        <rect class="orange" x="-17" y="-7" width="34" height="14" rx="7"/>
+        <path d="M-9 -7 q4 7 0 14 M1 -7 q4 7 0 14" stroke="#ffffff" stroke-width="1.3" fill="none" opacity="0.75"/>
+      </g>
+      <g transform="translate(-40,14) rotate(72)">
+        <rect class="orange" x="-14" y="-7" width="28" height="14" rx="7"/>
+        <path d="M-6 -7 q4 7 0 14 M3 -7 q4 7 0 14" stroke="#ffffff" stroke-width="1.3" fill="none" opacity="0.75"/>
+      </g>
+    </g>
+
+    <!-- legend -->
+    <g transform="translate(26,196)">
+      <rect class="green"  x="0" y="-5" width="18" height="9" rx="4.5"/>
+      <text class="lbl" x="25" y="3">respiratory mtDNA (&#961;&#8314;)</text>
+      <rect class="orange" x="0" y="15" width="18" height="9" rx="4.5"/>
+      <text class="lbl" x="25" y="23">selfish HS mtDNA (&#961;&#8315;)</text>
+    </g>
+
+    <!-- outcome arrow -->
+    <path class="thin" d="M30 236 L 196 236" marker-end="url(#ar)"/>
+    <text class="lbl" x="30" y="254">competition within the cell</text>
+  </g>
+
+  <!-- link 2 -> 3 -->
+  <path class="thin" d="M488 146 C 496 146, 496 146, 504 146" marker-end="url(#ar)"/>
+
+  <!-- ===================== 3. LONG READS ===================== -->
+  <g transform="translate(504,8)">
+    <rect class="panel" width="226" height="276" rx="10"/>
+    <text class="ttl" x="18" y="30">Long-read sequencing</text>
+    <text class="sub" x="18" y="48">reading through repeats</text>
+
+    <!-- short reads (fragmented) -->
+    <text class="lbl" x="18" y="80">short reads</text>
+    <g fill="#aeb5ba">
+      <rect x="18"  y="88" width="30" height="6" rx="3"/>
+      <rect x="54"  y="88" width="26" height="6" rx="3"/>
+      <rect x="34"  y="99" width="28" height="6" rx="3"/>
+      <rect x="150" y="88" width="30" height="6" rx="3"/>
+      <rect x="176" y="99" width="26" height="6" rx="3"/>
+      <rect x="142" y="99" width="22" height="6" rx="3"/>
+    </g>
+    <text class="lbl" x="92" y="98" fill="#c2358a">gap</text>
+
+    <!-- reference with repeat block -->
+    <rect x="18" y="120" width="190" height="12" rx="4" fill="#ced3d7"/>
+    <g fill="#8f979d">
+      <rect x="84"  y="120" width="18" height="12"/>
+      <rect x="106" y="120" width="18" height="12"/>
+      <rect x="128" y="120" width="18" height="12"/>
+    </g>
+    <text class="lbl" x="86" y="148">repeat array</text>
+
+    <!-- long reads spanning -->
+    <text class="lbl" x="18" y="178">long reads</text>
+    <g>
+      <rect x="18" y="186" width="190" height="7" rx="3.5" fill="#3d4247"/>
+      <rect x="30" y="199" width="172" height="7" rx="3.5" fill="#3d4247"/>
+      <rect x="22" y="212" width="160" height="7" rx="3.5" fill="#3d4247"/>
+    </g>
+    <path class="thin" d="M18 232 L 208 232"/>
+    <text class="lbl" x="18" y="250">one read spans the whole locus</text>
+  </g>
+
+  <!-- link 3 -> 4 -->
+  <path class="thin" d="M736 146 C 744 146, 744 146, 752 146" marker-end="url(#ar)"/>
+
+  <!-- ===================== 4. STRUCTURAL VARIATION ===================== -->
+  <g transform="translate(752,8)">
+    <rect class="panel" width="240" height="276" rx="10"/>
+    <text class="ttl" x="18" y="30">Structural variation</text>
+    <text class="sub" x="18" y="48">how genomes are rearranged</text>
+
+    <!-- reference -->
+    <text class="lbl" x="18" y="80">reference</text>
+    <g>
+      <rect x="18"  y="88" width="44" height="12" rx="3" fill="#ced3d7"/>
+      <rect x="64"  y="88" width="40" height="12" rx="3" fill="#0e8a86"/>
+      <rect x="106" y="88" width="38" height="12" rx="3" fill="#6b4fa8"/>
+      <rect x="146" y="88" width="34" height="12" rx="3" fill="#ced3d7"/>
+    </g>
+
+    <!-- inversion -->
+    <path class="line" stroke-width="1.4" d="M84 108 q0 10 10 10 h20 q10 0 10 -10" marker-end="url(#ar-d)" opacity="0.8"/>
+    <g>
+      <rect x="18"  y="130" width="44" height="12" rx="3" fill="#ced3d7"/>
+      <rect x="64"  y="130" width="40" height="12" rx="3" fill="#0e8a86"/>
+      <rect x="106" y="130" width="38" height="12" rx="3" fill="#6b4fa8" transform="rotate(180 125 136)"/>
+      <rect x="146" y="130" width="34" height="12" rx="3" fill="#ced3d7"/>
+      <path d="M110 136 l10 -4 v8 z" fill="#ffffff"/>
+    </g>
+    <text class="lbl" x="186" y="140">inversion</text>
+
+    <!-- deletion -->
+    <g>
+      <rect x="18"  y="168" width="44" height="12" rx="3" fill="#ced3d7"/>
+      <rect x="106" y="168" width="38" height="12" rx="3" fill="#6b4fa8"/>
+      <rect x="146" y="168" width="34" height="12" rx="3" fill="#ced3d7"/>
+      <path d="M64 174 h38" stroke="#c2358a" stroke-width="1.4" stroke-dasharray="3 3"/>
+    </g>
+    <text class="lbl" x="186" y="178">deletion</text>
+
+    <!-- translocation / introgression -->
+    <g>
+      <rect x="18"  y="206" width="44" height="12" rx="3" fill="#ced3d7"/>
+      <rect x="64"  y="206" width="40" height="12" rx="3" fill="#0e8a86"/>
+      <rect x="106" y="206" width="38" height="12" rx="3" fill="#e07a2f"/>
+      <rect x="146" y="206" width="34" height="12" rx="3" fill="#ced3d7"/>
+    </g>
+    <text class="lbl" x="186" y="216">introgression</text>
+
+    <path class="thin" d="M18 244 L 180 244"/>
+    <text class="lbl" x="18" y="262">assembled, not just called</text>
+  </g>
+</svg>
